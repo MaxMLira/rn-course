@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "RNCourse",
-    "slug": "RNCourse",
+    "name": "expensesApp",
+    "slug": "expensesApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",    
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "backgroundColor":"#1e085a",
+    "backgroundColor": "#2C048C",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
